@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NathanCor
 - 👀 I’m interested in numerical physical simulation
 - 🌱 I’m currently learning physics
-- 📫 How to reach me : mail at nathan.courbaron@etu.u-pec.fr
+- 📫 How to reach me : nathan.courbaron@etu.u-pec.fr
 
 <!---
 NathanCor/NathanCor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
