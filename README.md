@@ -38,8 +38,8 @@ I am **Nathan** (`@NathanCor`), an aspiring physicist exploring where theoretica
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NathanCor&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="NathanCor's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanCor&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="45%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=NathanCor&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="NathanCor's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NathanCor&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="45%" />
 
 <br/><br/>
 
