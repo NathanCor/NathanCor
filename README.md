@@ -43,11 +43,7 @@ I am **Nathan** (`@NathanCor`), an aspiring physicist exploring where theoretica
 
 <br/><br/>
 
-```text
-             .  .
-           .  :  .
-         :  :   :  :
-       .  :  ( )  :  .     <-- Nothing escapes the pull of clean code.
-         :  :   :  :
-           .  :  .
-             .  .
+<!-- Bannière Trou Noir ASCII modernisée -->
+<img src="https://images.unsplash.com/photo-example-ou-votre-hebergement" alt="Singularity" width="100%" />
+
+</div>
