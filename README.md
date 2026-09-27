@@ -43,7 +43,6 @@ I am **Nathan** (`@NathanCor`), an aspiring physicist exploring where theoretica
 
 <br/><br/>
 
-<!-- Bannière Trou Noir ASCII modernisée -->
-<img src="https://images.unsplash.com/photo-example-ou-votre-hebergement" alt="Singularity" width="100%" />
+<img src="./blackhole.jpg" alt="Singularity" width="100%" />
 
 </div>
