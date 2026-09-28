@@ -43,11 +43,10 @@ I am **Nathan** (`@NathanCor`), an aspiring physicist exploring where theoretica
 
 <br/><br/>
 
-<img src="./blackhole.png" alt="Singularity" width="100%" />
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NathanCor/blackhole_tracer/main/blackhole.png" alt="Schwarzschild Black Hole" width="100%">
+  <img src="./blackhole.png" alt="Singularity" width="100%" />
   <br>
-  <sub>* Generated with my custom C++20 Schwarzschild ray tracer (<a href="https://github.com/NathanCor/blackhole_tracer">blackhole_tracer</a>)</sub>
+  <sub>* Generated and edited with my custom C++20 Schwarzschild ray tracer (<a href="https://github.com/NathanCor/blackhole_tracer">blackhole_tracer</a>)</sub>
 </p>
 
 </div>
